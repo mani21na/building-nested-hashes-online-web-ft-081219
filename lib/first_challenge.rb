@@ -13,7 +13,9 @@ def first_challenge
                         age: "15"
                 },
                 hero_friend: {
-                        name: ""  
+                        name: "Benvolio"
+                        age: "17"
+                        
                 },
    }
 end
