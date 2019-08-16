@@ -1,6 +1,7 @@
 def first_challenge
-   epic_tragedy = {
-            montague: {
+   epic_tragedy = 
+   {
+        montague: {
                 patriarch: {
                         name: "Lord Motague",
                         age: "53"
@@ -25,5 +26,12 @@ def first_challenge
                         attitude: "hot-headed"
                         }
                 ]
+        },
+        capulet: {
+                
+        }
    }
+   
+     
+   
 end
